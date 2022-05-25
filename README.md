@@ -1,3 +1,4 @@
+![⎳⎲⎲⎳⎲⎳⎳⎲⎳⎲⎳⎲⎳⎳⎲⎳⎲⎳⎲⎳](4.png)
 ### Hi there 👋
 **ghrdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
