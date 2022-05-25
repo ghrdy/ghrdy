@@ -38,3 +38,4 @@ veverugwhyf7c38426n9328mu9📫📫📫📫📫📫📫📫📫📫📫
 
 
 did you know that ghrdy have
+![](./path/example.svg)
