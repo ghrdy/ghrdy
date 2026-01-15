@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi there!
+I'm Tim Hrdy, a full-stack developer in my final year of a Master’s degree.  
+Freelance and Lead Developer at **Viratec**, building scalable and production-ready web and mobile applications.
 
 
 # 💻 Tech Stack:
