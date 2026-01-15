@@ -15,7 +15,7 @@ Freelance and Lead Developer at **Viratec**, building scalable and production-re
 [![](https://visitcount.itsvg.in/api?id=ghrdy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🌐 Socials:
+## 🌐 Let's work together !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tim-hrdy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tim.hrdy.pro@gmail.com) 
 
 
