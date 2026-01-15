@@ -23,4 +23,17 @@ Freelance and Lead Developer at **Viratec**, building scalable and production-re
 
 ## 🌐 Let's work together !
 
-   <div> <a href="https://www.linkedin.com/in/tim-hrdy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" style="max-width: 100%;"></a> </div>
+   <div>
+  <a href="https://www.linkedin.com/in/tim-hrdy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="linkedin"
+         height="40"
+         style="max-width: 100%;">
+  </a>
+  <a href="mailto:tim.hrdy.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="gmail"
+         height="40"
+         style="max-width: 100%;">
+  </a>
+</div>
