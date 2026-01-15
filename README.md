@@ -21,7 +21,7 @@ Freelance and Lead Developer at **Viratec**, building scalable and production-re
 [![](https://visitcount.itsvg.in/api?id=ghrdy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🌐 Let's work together !
+## Let's work together !
 
 <div>
   <a href="https://www.linkedin.com/in/tim-hrdy/">
