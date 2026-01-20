@@ -13,7 +13,6 @@ Freelance and Lead Developer at **Viratec**, building scalable and production-re
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="vuejs" height="40" style="max-width: 100%;">
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghrdy&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ghrdy&theme=graywhite&hide_border=true)<br/>
 
 ---
